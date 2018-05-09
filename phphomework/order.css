@@ -1,0 +1,105 @@
+/*  CSS inspired by http://codepen.io/alassetter/full/cyrfB/ */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
+
+body {
+  background-color: #F5F5F5;
+  font-family:  Helvitica, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+    margin-left: 3%;
+}
+
+div.title {
+  margin: auto;
+  max-width: 900px;
+  padding:5px;
+  width: 100%;
+}
+
+.title h1 {
+   color: black;
+   font-size: 26px;
+   font-weight: 500;
+   font-family: "Roboto", helvetica, arial, sans-serif;
+   text-transform:uppercase;
+}
+
+
+footer {
+    padding-left: 20px; 
+    line-height: 20px;
+    color: black;
+}
+
+
+
+#salesbutton{
+    background-color: #008CBA;
+    font-size: 12px;
+    float: right;
+    margin-bottom: 2%;
+    
+}
+
+
+.product{
+   width: 50%;
+
+}
+
+#pwrec{
+    width: 40%;
+
+ 
+}
+
+#pwchair{
+    width: 30%;
+
+}
+
+#pwsofa{
+    width: 40%;
+   
+  
+}
+
+#pwbed{
+    width: 50%;
+
+  
+}
+
+.strike{
+     text-decoration: line-through;
+}
+#sofa{
+    width: 30%;
+}
+#recliner{
+    width: 40%;
+}
+
+.right{
+    margin-left: 6%;
+   display:inline-flex
+ 
+}
+.left{
+    margin-left: 6%;
+    display: inline-flex;
+}
+#Payment{
+
+}
+
+.error {
+    background: #FFCDD2;
+    box-shadow: 0 0 5px #FF5252;
+    border-color: #FF1744;    
+}
+
+#recamt, #sofaamt, #chairamt, #bedamt {
+    background-color: beige;
+}

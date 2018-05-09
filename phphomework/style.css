@@ -1,0 +1,112 @@
+h1{
+padding: 100px 10px;
+width: 100%;
+background:  url('http://eventosppv.me/wp-content/uploads/2018/02/home-design-interior-furniture-in-living-room-modern-designs-layouts.jpg') no-repeat center;;
+text-align: center;
+font-size: 32px;
+font-family:  Helvitica, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:  #2430ff;
+}
+#nav {
+    padding:5px 10px;
+    background: lightblue;
+    color: #2430ff;
+    }
+    #nav ul {
+    margin:0;
+    padding:1px;
+    list-style:none;
+   font-family: 'Slabo 27px', serif; 
+    
+    }
+    #nav li {
+    display:inline;
+    margin:0;
+    padding:4px;
+    color: black;
+      
+    }
+    #nav li:hover { 
+        background-color: yellow;
+    }
+#list {
+        font-family: serif;
+        font-weight: bold;
+        font-size: 17px;
+        background: rgba(255, 255, 255, 0.788);
+        
+    }
+#bedroom{
+    width: 100%
+   
+}
+
+#spring{
+     padding-left: 20px; 
+    width: 100%;
+    margin: auto;
+}
+#spring a{
+   font-family: 'Raleway', sans-serif;
+}
+#spring a:hover { 
+        background-color: yellow;
+    font-weight: bold;
+    }
+#catalog{
+     padding-left: 20px;
+    margin-top: 3%;
+    padding: 0% 1% 1% 1%;
+    border: 2px solid #c0c0c0;
+}
+
+
+body {
+margin-left: 5
+padding:0;
+color: black;
+background: lightblue;
+font:17px/1.5;
+font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+#palewave{
+    text-align: left;
+       
+}
+#x{
+     padding-left: 20px; 
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    color: #2430ff;
+    
+}
+.column {
+    padding-top: 10px;
+    padding-left: 20px; 
+    float: left;
+    width: 30%
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#chair{
+    width: 67%;
+}
+#desk, #table {
+   width: 90%;
+    
+}
+footer {
+    padding-left: 20px; 
+    line-height: 20px;
+    color: black;
+}
+
+
+
